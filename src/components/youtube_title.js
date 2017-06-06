@@ -2,7 +2,7 @@ import React from 'react'
 
 function SiteTitle() {
   return (
-    <div className="title-style">Youtube</div>
+    <div className="title-style col-md-4">Youtube</div>
   )
 }
 

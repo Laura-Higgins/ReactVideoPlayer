@@ -27,8 +27,12 @@
 }
 
 .title-style {
+  margin-top: 10px;
   font-size: 72px;
-  color: #e12e0a;
+  color: white;
+  background-color: red;
+  border: solid red 1px;
+  border-radius: 15px;
 }
 
 .loud-font {

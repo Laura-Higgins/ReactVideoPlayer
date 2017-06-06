@@ -4,7 +4,7 @@ import YTSearch from 'youtube-api-search'
 import VideoList from './components/video-list'
 import SearchBar from './components/search_bar'
 import VideoDetail from './components/video_detail'
-import SiteTitle from './components/title_component'
+import SiteTitle from './components/youtube_title'
 import _ from 'lodash'
 const API_KEY = 'AIzaSyBiPv2VNm-v54cyo0rv1SDqSBOpIoKMI58'
 
