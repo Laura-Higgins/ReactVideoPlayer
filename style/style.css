@@ -25,3 +25,12 @@
 .list-group-item:hover {
   background-color: #eee;
 }
+
+.title-style {
+  font-size: 72px;
+  color: #e12e0a;
+}
+
+.loud-font {
+  font-weight: bold;
+}
